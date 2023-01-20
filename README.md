@@ -65,7 +65,8 @@ I am Abhishek Kumar (he/him)    </h2>
 <br/>
 <hr/>
 
-### ⚙️ &nbsp;GitHub Analytics
+
+## <img src="https://media0.giphy.com/media/YZuPLv7YPBzBRXuWnf/giphy.gif?cid=ecf05e47b1vr1pwvpcs8wfyoilhcn8g0nj1jyqo13mhb5dcg&rid=giphy.gif&ct=s" width="40"> &nbsp; **GitHub Analytics**
 
 <p align="center">
 <a href="https://github.com/Abhishek-00">
