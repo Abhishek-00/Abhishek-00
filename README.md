@@ -3,18 +3,36 @@
 
 <br />
 
-<h2 align="center"> "Hello World👋🌏",I am Abhishek Kumar (he/him) </h2>
+<h2 align="center"> "Hello World"
+<img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="40">
+
+I am Abhishek Kumar (he/him)    </h2>
 
 <p align='center'>
   <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
 </p>
 
+<br/>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=abhishek-00&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-00" /> </p>
 
 <br/>
-<br/>
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages:**
+## <img src="https://media2.giphy.com/media/z9vxfIMzxbTaGwBkc5/giphy_s.gif?cid=ecf05e47cjnt33447pqnhksb17ve7x5zi6bsr2dagkvtdyvh&rid=giphy_s.gif&ct=s" width="40"> &nbsp; **About me**
+
+- 🔭 I’m currently working on my Web development skills.
+- 🌱 I’m currently learning React by building projects.
+- 👯 I’m looking to collaborate on any open source projects using Javascript.
+- 😄 I love exploring and learning new skills as well as implement those in my projects.
+- 📫 How to reach me: **abhishek02102003@gmail.com**
+- ⚡ Fun fact I also love to hear songs during coding.
+
+
+<br/>
+<br/>
+<hr/>
+
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">  &nbsp;**Languages:**
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>	&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>	&nbsp;
@@ -30,10 +48,8 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 	&nbsp;
 </p>
 
-<hr/>
-<br/>
 
-## <img src="https://media4.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif?cid=ecf05e473w3yyq5ltckpc4c6vr4jf9avvh9uao2eswa4v9rk&rid=giphy.gif&ct=s" width="40"> **Tools:**
+## <img src="https://media4.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif?cid=ecf05e473w3yyq5ltckpc4c6vr4jf9avvh9uao2eswa4v9rk&rid=giphy.gif&ct=s" width="40">  &nbsp;**Tools:**
 <p align="left">
 <a href="https://git-scm.com" target="_blank">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
@@ -49,14 +65,31 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>	&nbsp;
 </p>
 
-<hr/>
+
+
+
 <br/>
+<br/>
+<hr/>
 
-<!---
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-00&theme=dark&hide_border=false)<br/>
--->
+### ⚙️ &nbsp;GitHub Analytics
 
-## <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40"> **Reach out to me:** ️
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhishek-00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhishek-00&layout=compact&langs_count=8&theme=dark"/>
+</a>
+</p>
+
+<p align="center">
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-00&theme=dark&hide_border=false"/>
+</p>
+
+<br/>
+<br/>
+<hr/>
+
+## <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40"> &nbsp; **Connect with Me !! 🤝** ️
 
 <p align="left">
 <a href="https://www.linkedin.com/in/abhishek-00-/" target="_blank">
@@ -73,16 +106,19 @@
 </a>
 </p>
 
+<br/>
+<br/>
 <hr/>
-<br/>
 
-<br/>
 
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+</p>
+
 
 <br/>
 <br/>
