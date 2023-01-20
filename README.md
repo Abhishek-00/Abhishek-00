@@ -35,18 +35,18 @@
 
 ## <img src="https://media4.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif?cid=ecf05e473w3yyq5ltckpc4c6vr4jf9avvh9uao2eswa4v9rk&rid=giphy.gif&ct=s" width="40"> **Tools:**
 <p align="left">
-<a href="https://git-scm.com">
+<a href="https://git-scm.com" target="_blank">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
 </a>
-<a href="https://github.com/arpanaditya">
+<a href="https://github.com/Abhishek-00" target="_blank">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
 </a>
-<a href="https://code.visualstudio.com/">
+<a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px"></a>
-<a href="https://code.visualstudio.com/">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_pycharm.svg" alt="vscode" style="vertical-align:top; margin:4px"></a>	&nbsp;
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>	&nbsp;
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>	&nbsp;
+<a href="https://www.jetbrains.com/pycharm/" target="_blank">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_pycharm.svg" alt="jetbrains_pycharm" style="vertical-align:top; margin:4px"></a>	&nbsp;
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>	&nbsp;
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>	&nbsp;
 </p>
 
 <hr/>
@@ -59,16 +59,16 @@
 ## <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40"> **Reach out to me:** ️
 
 <p align="left">
-<a href="https://linkedin.com/in/arpan-aditya](https://www.linkedin.com/in/abhishek-00-/">
+<a href="https://www.linkedin.com/in/abhishek-00-/" target="_blank">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
 </a>  
-<a href="https://twitter.com/Abhishek_ak_02">
+<a href="https://twitter.com/Abhishek_ak_02" target="_blank">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 </a>
-<a href="https://www.instagram.com/btw_itsabhishek02">
+<a href="https://www.instagram.com/btw_itsabhishek02" target="_blank">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
 </a>
-<a href="mailto:abhishek02102003@gmail.com@gmail.com">
+<a href="mailto:abhishek02102003@gmail.com@gmail.com" target="_blank">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/gmail.svg" alt="GMail" style="vertical-align:top; margin:4px">
 </a>
 </p>
