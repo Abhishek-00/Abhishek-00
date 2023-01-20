@@ -1,8 +1,5 @@
 
 
-
-<br />
-
 <h2 align="center"> "Hello World"
 <img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="40">
 
@@ -12,11 +9,11 @@ I am Abhishek Kumar (he/him)    </h2>
   <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
 </p>
 
-<br/>
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=abhishek-00&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-00" /> </p>
 
-<br/>
+
 
 ## <img src="https://media2.giphy.com/media/z9vxfIMzxbTaGwBkc5/giphy_s.gif?cid=ecf05e47cjnt33447pqnhksb17ve7x5zi6bsr2dagkvtdyvh&rid=giphy_s.gif&ct=s" width="40"> &nbsp; **About me**
 
@@ -28,7 +25,6 @@ I am Abhishek Kumar (he/him)    </h2>
 - ⚡ Fun fact I also love to hear songs during coding.
 
 
-<br/>
 <br/>
 <hr/>
 
@@ -66,26 +62,22 @@ I am Abhishek Kumar (he/him)    </h2>
 </p>
 
 
-
-
-<br/>
 <br/>
 <hr/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhishek-00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhishek-00&layout=compact&langs_count=8&theme=dark"/>
+<a href="https://github.com/Abhishek-00">
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhishek-00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhishek-00&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
 
 <p align="center">
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-00&theme=dark&hide_border=false"/>
+ <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-00&theme=dark&hide_border=false"/>
 </p>
 
-<br/>
 <br/>
 <hr/>
 
@@ -107,9 +99,7 @@ I am Abhishek Kumar (he/him)    </h2>
 </p>
 
 <br/>
-<br/>
 <hr/>
-
 
 <p align="center">
 <picture>
@@ -120,7 +110,7 @@ I am Abhishek Kumar (he/him)    </h2>
 </p>
 
 
-<br/>
+
 <br/>
 
 <!--
