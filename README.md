@@ -69,13 +69,13 @@ I am Abhishek Kumar (he/him)    </h2>
 
 <p align="center">
 <a href="https://github.com/Abhishek-00">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhishek-00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhishek-00&layout=compact&langs_count=8&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhishek-00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhishek-00&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
 
 <p align="center">
- <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-00&theme=dark&hide_border=false"/>
+ <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-00&theme=dark&hide_border=false"/>
 </p>
 
 <br/>
