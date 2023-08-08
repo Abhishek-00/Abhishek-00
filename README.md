@@ -17,7 +17,7 @@ I am Abhishek Kumar (he/him)    </h2>
 
 ## <img src="https://media2.giphy.com/media/z9vxfIMzxbTaGwBkc5/giphy_s.gif?cid=ecf05e47cjnt33447pqnhksb17ve7x5zi6bsr2dagkvtdyvh&rid=giphy_s.gif&ct=s" width="40"> &nbsp; **About me**
 
-- 🔭 I’m currently working on my Web development skills.
+- 🔭 I’m currently working on Data Structure and Algorithm.
 - 🌱 I’m currently learning Threejs by building projects.
 - 👯 I’m looking to collaborate on any open source projects using web application.
 - 😄 I love exploring and learning new skills as well as implement those in my projects.
