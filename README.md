@@ -102,9 +102,9 @@ I am Abhishek Kumar (he/him)    </h2>
 <a href="https://twitter.com/Abhishek_ak_02" target="_blank">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 </a>
-<a href="https://www.instagram.com/btw_itsabhishek02" target="_blank">
+<!-- <a href="https://www.instagram.com/btw_itsabhishek02" target="_blank">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
-</a>
+</a> -->
 <a href="mailto:abhishek02102003@gmail.com@gmail.com" target="_blank">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/gmail.svg" alt="GMail" style="vertical-align:top; margin:4px">
 </a>
